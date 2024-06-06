@@ -65,7 +65,7 @@
       },
       "UPSTREAM_REPO": {
         "description": "If you dont know this, Leave as it is",
-        "value": "https://github.com/Vivekkumar-IN/YukkiMusic",
+        "value": "https://github.com/Ksidhdnkddbos/Help",
         "required": true
       },
       "UPSTREAM_BRANCH": {
